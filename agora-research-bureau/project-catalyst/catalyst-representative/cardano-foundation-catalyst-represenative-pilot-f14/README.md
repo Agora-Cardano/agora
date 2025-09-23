@@ -1,6 +1,6 @@
 # Cardano Foundation Pilot Program – Catalyst Fund 14  
 
-The Cardano Foundation is introducing a **pilot program** in Fund 14 to refine its role within Project Catalyst and strengthen community-led decision-making.  
+The Cardano Foundation is introducing a [**pilot program**](https://cardanofoundation.org/blog/catalyst-f14) in Fund 14 to refine its role within Project Catalyst and strengthen community-led decision-making.  
 
 ### Key elements of the pilot  
 - **Focused Voting**: The Foundation will limit its voting power to a single wallet (~20M ada) and vote exclusively in the track *Cardano Use Cases: Partners & Products* (₳8.5M budget).  
