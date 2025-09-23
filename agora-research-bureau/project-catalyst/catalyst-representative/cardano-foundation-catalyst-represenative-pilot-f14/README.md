@@ -341,8 +341,10 @@ This measure ensures that my personal involvement as a proposer does not comprom
 
 # Fund 14 – Distributed Decision Making Proposals
 
-Below is the consolidated list of proposals related to **Distributed Decision Making** that I am endorsing.  
+Below is the consolidated list of proposals related to **Distributed Decision Making** and the list of proposals that I am endorsing.  
 Each entry includes a direct link to the Catalyst website and platform for full details.
+
+- [Click here to access the complete list](https://docs.google.com/spreadsheets/d/1n3to8HTzm_ul4FWSLVUklqXXfwS_yrsjGndYDg5dYoA/edit?usp=sharing)
 
 | Proposal Name and Link | Catalyst App Link |
 |----------|---------------|
