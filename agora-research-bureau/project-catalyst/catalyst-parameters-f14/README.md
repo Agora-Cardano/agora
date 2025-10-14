@@ -1,7 +1,7 @@
 
-##🧮 **When Parameters Become Politics: The 1% Threshold Paradox in Project Catalyst**
+## 🧮 **When Parameters Become Politics: The 1% Threshold Paradox in Project Catalyst**
 
-###⚙️ 1️⃣ **Why Parameters Matter in Blockchain Governance**
+### ⚙️ 1️⃣ **Why Parameters Matter in Blockchain Governance**
 
 In blockchain systems, parameters are not just numbers — they are politics written in code.
 
@@ -11,7 +11,7 @@ In Cardano, few parameters are as well-known as k, the pool decentralization con
 Yet within governance itself, one equally crucial parameter — the 1% approval threshold in Project Catalyst — has remained untouched for years.
 It doesn’t make headlines, but it determines which ideas live or die, which builders stay or leave, and how treasury funds are distributed.
 
-###⚖️ 2️⃣ **The Fixed Threshold Paradox**
+### ⚖️ 2️⃣ **The Fixed Threshold Paradox**
 
 The minimum approval threshold of 1% of the registered voting power has remained unchanged since Fund 6, when IOG Research and Catalyst team introduced a new reward and voting framework for Catalyst.
 
@@ -19,7 +19,7 @@ Earlier rounds (Fund 2–5) used ranking and funding caps instead of a fixed cut
 
 But as Catalyst scaled, that same rule became a bottleneck — mathematically misaligned with the system’s growth.
 
-##🔍 Note on the Origins and Transparency of the 1% Threshold
+## 🔍 Note on the Origins and Transparency of the 1% Threshold
 
 Available evidence suggests that the 1% approval threshold was first implemented during Fund 6, introduced alongside a restructured Community Review Rewards Scheme and other procedural parameters.
 
@@ -32,7 +32,7 @@ but rather that no such justification appears to have been made publicly availab
 
 A threshold that determines which ideas receive public funding should have a transparent and traceable rationale — one that the community can evaluate and, when needed, revisit.
 
-###🧭 3️⃣ **A Rule That Made Sense — Until It Didn’t**
+### 🧭 3️⃣ **A Rule That Made Sense — Until It Didn’t**
 
 In Fund 6, Catalyst had roughly 650 proposals and around 22,000 registered wallets, ₳3.58B of total stake and ≈292,000 votes cast.
 
