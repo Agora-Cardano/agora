@@ -987,7 +987,7 @@ gov_action18fd7jwa06fksmwumlcvlft8v4guvaa672qsp6xgenekvs4kmvcqsq8cqks4
 ### Appendix A — Formal Definition (LaTeX)
 
 *Figure A1. Baseline pro-rata reward definition: sets (𝐷), eligibility/claim subsets, voting-power aggregates, and payout rule.*
-![Baseline pro-rata reward definition](/assets/Screenshot_20260302_235814.png)
+![Baseline pro-rata reward definition](assets/Screenshot_20260302_235814.png)
 
 ### Appendix B - Worked Example — Eligibility Snapshot (Manual Pilot Simulation)
 
