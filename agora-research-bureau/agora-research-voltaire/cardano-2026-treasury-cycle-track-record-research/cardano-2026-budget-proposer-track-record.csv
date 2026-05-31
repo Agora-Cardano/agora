@@ -1,0 +1,445 @@
+entity_id,canonical_name,alias_found,alias_type,historical_proposal,funding_source,fund_cycle,funding_status,delivery_status,confidence,proposal_url,notes
+ENT-001,MLabs LTD,,,,,,,,,,
+ENT-002,TxPipe,,,,,,,,,,
+ENT-003,zkFold,,,,,,,,,,
+ENT-004,Rare Network (Rare Evo) & SCRIB3,,,,,,,,,,
+ENT-005,Eryx,,,,,,,,,,
+ENT-006,Ledger Technologies SAS,,,,,,,,,,
+ENT-007,VacuumLabs,,,,,,,,,,
+ENT-008,2 Lovelaces & Lido Nation,,,,,,,,,,
+ENT-009,IntersectMBO,,,,,,,,,,
+ENT-010,BLOXBEAN,,,,,,,,,,
+ENT-011,Cardano Builder DAO,,,,,,,,,,
+ENT-012,STORM Partners,,,,,,,,,,
+ENT-013,Magenta Labs,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-014,No.Witness Labs,,,,,,,,,,
+ENT-015,Jose Velazquez,,,,,,,,,,
+ENT-016,Intersect Civics Committee,,,,,,,,,,
+ENT-017,Intersect Technical Steering Committee,,,,,,,,,,
+ENT-018,Wada Global,,,,,,,,,,
+ENT-019,Ensurable Systems Ltd,,,,,,,,,,
+ENT-020,DeltaDeFi,,,,,,,,,,
+ENT-021,Prisma,,,,,,,,,,
+ENT-022,Serviceplan Group,,,,,,,,,,
+ENT-023,Techstars,,,,,,,,,,
+ENT-024,WingRiders Ltd.,,,,,,,,,,
+ENT-025,Indigo Foundation,,,,,,,,,,
+ENT-026,Dano Finance,Binh Mai,Shared Key Contributor,"Open Platform to code, run, test, learn & teach Python OpShin Smart Contract",Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/12/cardano-open-ecosystem/open-platform-to-code-run-test-learn-and-teach-python-opshin-smart-contract,
+ENT-026,Dano Finance,Binh Mai,Shared Key Contributor,Mobile Learning Platform & Interactive Courses & Hackathons for Aiken & Python Development,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-ecosystem/mobile-learning-platform-and-interactive-courses-and-hackathons-for-aiken-and-python-development,
+ENT-026,Dano Finance,Binh Mai,Shared Key Contributor,Open Database of 1000+ Aiken Coding Problems & Monthly Hackathons,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-ecosystem/open-database-of-1000-aiken-coding-problems-and-monthly-hackathons,
+ENT-026,Dano Finance,Binh Mai,Shared Key Contributor,"Community Platform to teach, test & certify Aiken, Plutus, Opshin & offchain languages for Cardano",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-ecosystem/community-platform-to-teach-test-and-certify-aiken-plutus-opshin-and-offchain-languages-for-cardano,
+ENT-026,Dano Finance,Fallen Icarus,Shared Key Contributor,P2P-DeFi Protocols: Continued Development,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/p2p-defi-protocols-continued-development,
+ENT-026,Dano Finance,Fallen Icarus,Shared Key Contributor,P2P-DeFi Protocols: Cardano-Loans,Project Catalyst,,Funded,Paused,High,https://projectcatalyst.io/funds/11/cardano-use-cases-concept/p2p-defi-protocols-cardano-loans,Cancellation Statament: https://drive.google.com/file/d/1kEfytlnMULOFQT0CpFBoRdxzQO6V6EAy/view
+ENT-027,NMA Venture Capital GmbH,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-028,BRIDGE FUND,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-029,ChainPort (by DcentraLab),,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-030,Voltaire Swarm,Rodrigo Pacini,Shared Key Contributor,DReps LATAM - Brasil - Exploration & Community Sensing,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/drep-improvement-and-onboarding/dreps-latam-brasil-exploration-and-community-sensing,
+ENT-030,Voltaire Swarm,Rodrigo Pacini,Shared Key Contributor,Cardano Ambassadors & Latin America,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/grow-latin-america-grow-cardano/cardano-ambassadors-and-latin-america,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Open dApp Framework,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/open-dapp-framework,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Project Catalyst Landing Page,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/4/catalyst-value-onboarding/project-catalyst-landing-page,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Community Site: Development - AIM,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/catalyst-value-onboarding/community-site-development-aim,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Community Governance Oversight,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/8/improve-and-grow-auditability/community-governance-oversight,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Mini Proposal Workshops,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/challenge-and-scouted-for-students/mini-proposal-workshops,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,After Town Hall by Swarm,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/proposer-outreach/after-town-hall-by-swarm,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,PCDiscord - Bot to create channels,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-bot-to-create-channels,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Mini Proposal Workshops,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/community-events/mini-proposal-workshops,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,PCDiscord Miro board for Onboarding,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-miro-board-for-onboarding,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Video content about Mini-Proposals,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/proposer-outreach/video-content-about-mini-proposals,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,PCDiscord - Bot to Assign Roles,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-bot-to-assign-roles,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Mini Proposals as a Service,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/dlt-entrepreneurship-toolbox/mini-proposals-as-a-service,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,IDEA FEST for Fund 6 + 7,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/dlt-entrepreneurship-toolbox/idea-fest-for-fund-6-7,
+ENT-030,Voltaire Swarm,Tevo Kask,Shared Key Contributor,Intersect Town Halls,Intersect,,Funded,Complete,High,https://intersect.gitbook.io/intersect-community-grants/cohort-3/inclusion-and-accessibility/intersect-town-halls,
+ENT-031,David Tacuri,David Tacuri,Shared Key Contributor,Digital voter ID using Atala prism,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/12/cardano-use-cases-concept/digital-voter-id-using-atala-prism,
+ENT-031,David Tacuri,David Tacuri,Shared Key Contributor,Blockchain voting system,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-concept/blockchain-voting-system,
+ENT-032,Justice Conder,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,DripDropz Open Source Voting Gated Polling,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/products-and-integrations/dripdropz-open-source-voting-gated-polling,
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,DripDropz Open Source Voting Petition Management,Project Catalyst,,Funded,,High,https://projectcatalyst.io/funds/10/products-and-integrations/dripdropz-open-source-voting-petition-management,
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,DripDropz Cardano Mainstreet Suite,Project Catalyst,,Funded,,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/dripdropz-cardano-mainstreet-suite,
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,DripDropz Open Source Voting Tool,Project Catalyst,,Funded,,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/dripdropz-open-source-voting-tool,
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,DripDropz - Mainstreet Suite Licensing,Project Catalyst,,Funded,Cancelled,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/dripdropz-mainstreet-suite-licensing,Cancellation Statament: https://drive.google.com/file/d/1qPKdSuEsOSd0XvkIhQrTIyV14Znp-Qcx/view
+ENT-033,Se7en Labs,"Drip Dropz / Andrew, Kyle, Latheesan
+Chris, and Anthony",Shared Key Contributor,Real World Adoption: Cardano Payments in Vending Machines,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/14/cardano-use-cases-partners-and-products/real-world-adoption-cardano-payments-in-vending-machines,
+ENT-033,Se7en Labs,Anthony,Shared Key Contributor,Rare Bloom Cardano Community Event,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/rare-bloom-cardano-community-event,
+ENT-033,Se7en Labs,Latheesan,Shared Key Contributor,"GateKeeper: Reports, Multi-Event Support, & UX/UI Refinement",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/osde-open-source-dev-ecosystem/gatekeeper-reports-multi-event-support-and-uxui-refinement,
+ENT-033,Se7en Labs,Latheesan,Shared Key Contributor,Cardano Mercury for MedusaJS,Project Catalyst,,Funded,Delayed,Medium,https://projectcatalyst.io/funds/13/cardano-use-cases-concept/cardano-mercury-for-medusajs,
+ENT-033,Se7en Labs,Latheesan,Shared Key Contributor,Mercury: Invoice,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/mercury-invoice,
+ENT-033,Se7en Labs,"Kyle, and Latheesan",Shared Key Contributor,Adosia Spaceprinter Lite,Project Catalyst,,Funded,Cancelled,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/adosia-spaceprinter-lite,Cancellation Statament: https://drive.google.com/file/d/1kEfytlnMULOFQT0CpFBoRdxzQO6V6EAy/view
+ENT-033,Se7en Labs,"Kyle, and Latheesan",Shared Key Contributor,Adosia Marketplace Updates,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/adosia-marketplace-updates,
+ENT-033,Se7en Labs,"Kyle, and Chris",Shared Key Contributor,Adosia Open Governance Model,Project Catalyst,,Funded,Cancelled,High,https://projectcatalyst.io/funds/10/daos-cardano/adosia-open-governance-model,
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,P2P IoT Marketplaces - Adosia IoT,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/dapps-and-integrations/p2p-iot-marketplaces-adosia-iot,
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,Entrepreneurship Series for the Cardano Community,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/11/cardano-open-ecosystem/entrepreneurship-series-for-the-cardano-community,Change Request explaining the delay: https://drive.google.com/file/d/1C822oZdYwoB2qOn8RixrbZCNuzt7i8RM/view
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,Uber of 3D Printing Manufacturing,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/8/dapps-and-integrations/uber-of-3d-printing-manufacturing,
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,IoT Utility Dapp - Sign Tx Arduino,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/2/challenge/iot-utility-dapp-sign-tx-arduino,
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,Ada Tx to Trigger IoT + IO HW Spins,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/3/dapp-creation/ada-tx-to-trigger-iot-io-hw-spins,
+ENT-033,Se7en Labs,Kyle,Shared Key Contributor,Address Gap in SPO Education/Comms,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/2/challenge/address-gap-in-spo-educationcomms,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,NEWM Community - Proof-of-Human (PoH) System – Enhance Security for Smart Contracts,Project Catalyst,,Funded,Cancelled,Medium,https://projectcatalyst.io/funds/10/osde-open-source-dev-ecosystem/newm-community-proof-of-human-poh-system-enhance-security-for-smart-contracts,"The proposal was not completed and appears as cancelled or discontinued based on the publicly available records reviewed during this research.
+
+No formal cancellation report, closure statement, or explanatory documentation was identified through the sources reviewed.
+
+For transparency, the associated Milestone Module record is provided below so readers can independently review the available project history and status:
+
+[Milestone Module URL https://milestones.projectcatalyst.io/projects/1000130/milestones/4]
+
+The absence of a publicly discoverable cancellation report should not be interpreted as evidence of misconduct or project failure; it only indicates that no additional explanatory documentation was identified during this research.
+"
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,NEWM x Nucast - Music Video Festival - Annual Recurring Event,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/building-on-nmkr/newm-x-nucast-music-video-festival-annual-recurring-event,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,NEWM Community - Cardano Is Not a Ghost Chain - Worldwide Marketing Push for Cardano,Project Catalyst,,Funded,Cancelled,Medium,https://projectcatalyst.io/funds/10/catalyst-open/newm-community-cardano-is-not-a-ghost-chain-worldwide-marketing-push-for-cardano,Discontinuation Request: https://drive.google.com/file/d/1riGrZL4bmDGhSWo8XaAJfq4NBkZorZut/view
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,projectNEWM Marketplace Creation,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/projectnewm-marketplace-creation,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,Smart Contract Audit projectNEWM,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/smart-contract-audit-projectnewm,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,KYC Solution,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/legal-and-financial-implementations/kyc-solution,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,Wallet Dapp Connector Integration,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/wallet-dapp-connector-integration,
+ENT-033,Se7en Labs,Andrew,Shared Key Contributor,Kogmios Open Source Doc/Dev/Support,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/developer-ecosystem/kogmios-open-source-docdevsupport,
+ENT-033,Se7en Labs,Samuel Leathers,Employment Relationship Only,Input Output Engineering 2025 Core Development Proposal,TWGA,,Funded,Delayed,Low,https://gov.tools/outcomes/governance_actions/8ad3d454f3496a35cb0d07b0fd32f687f66338b7d60e787fc0a22939e5d8833e#1,
+ENT-033,Se7en Labs,Samuel Leathers,Shared Key Contributor,"Product Committee - Local Gatherings, Business Calls, Workshops",Intersect,,Funded,Delayed,Low,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/ER-0004a-25,
+ENT-034,Wormhole Foundation,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-035,Simon Thompson,SImon Thompson / Tomasz Rybarczyk,Shared Key Contributor,,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/13/cardano-use-cases-concept/marlowe-2025-oracle-protocol-design-and-implementation,
+ENT-035,Simon Thompson,Tomasz Rybarczyk,Shared Key Contributor,Cardano Lightning Network (Phase 1) - Payment Gateways,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/12/cardano-use-cases-concept/cardano-lightning-network-phase-1-payment-gateways,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Open dApp Framework,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/open-dapp-framework,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Project Catalyst Landing Page,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/4/catalyst-value-onboarding/project-catalyst-landing-page,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Community Site: Development - AIM,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/catalyst-value-onboarding/community-site-development-aim,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Community Governance Oversight,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/8/improve-and-grow-auditability/community-governance-oversight,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Mini Proposal Workshops,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/challenge-and-scouted-for-students/mini-proposal-workshops,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,After Town Hall by Swarm,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/proposer-outreach/after-town-hall-by-swarm,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,PCDiscord - Bot to create channels,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-bot-to-create-channels,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Mini Proposal Workshops,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/community-events/mini-proposal-workshops,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,PCDiscord Miro board for Onboarding,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-miro-board-for-onboarding,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Video content about Mini-Proposals,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/proposer-outreach/video-content-about-mini-proposals,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,PCDiscord - Bot to Assign Roles,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/5/catalyst-value-onboarding/pcdiscord-bot-to-assign-roles,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Mini Proposals as a Service,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/dlt-entrepreneurship-toolbox/mini-proposals-as-a-service,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,IDEA FEST for Fund 6 + 7,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/dlt-entrepreneurship-toolbox/idea-fest-for-fund-6-7,
+ENT-036,Voltaire Swarm OÜ,Tevo Kask,Shared Key Contributor,Intersect Town Halls,Intersect,,Funded,Complete,High,https://intersect.gitbook.io/intersect-community-grants/cohort-3/inclusion-and-accessibility/intersect-town-halls,
+ENT-037,Innovation & Growth DAO,CardanoYoda,Shared Key Contributor,DRep DAO Platform,Project Catalyst,,Funded,In Progress,High,https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/drep-dao-platform,
+ENT-037,Innovation & Growth DAO,Cexplorer / Michal,Shared Key Contributor,Cexplorer: Mini Cardano Explorer for (not only) Local Usage,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/14/cardano-open-developers/cexplorer-mini-cardano-explorer-for-not-only-local-usage,
+ENT-037,Innovation & Growth DAO,Cexplorer / Michal,Shared Key Contributor,"Cexplorer 2.0: Newer, Faster, More Powerful",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/13/cardano-use-cases-product/cexplorer-20-newer-faster-more-powerful,
+ENT-037,Innovation & Growth DAO,Cexplorer / Michal,Shared Key Contributor,Cexplorer.io: Advanced DRep & SPO analytics,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/13/cardano-use-cases-product/cexplorerio-advanced-drep-and-spo-analytics,
+ENT-037,Innovation & Growth DAO,Cexplorer / Michal,Shared Key Contributor,JamOnBread‘s NFT Smart Contract with revenue sharing mechanism for whole Cardano NFT space to use!,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/jamonbreads-nft-smart-contract-with-revenue-sharing-mechanism-for-whole-cardano-nft-space-to-use,
+ENT-037,Innovation & Growth DAO,Rodrigo Pacini,Shared Key Contributor,DReps LATAM - Brasil - Exploration & Community Sensing,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/drep-improvement-and-onboarding/dreps-latam-brasil-exploration-and-community-sensing,
+ENT-037,Innovation & Growth DAO,Rodrigo Pacini,Shared Key Contributor,Cardano Ambassadors & Latin America,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/grow-latin-america-grow-cardano/cardano-ambassadors-and-latin-america,
+ENT-038,Innovation & Growth DAO,Jaromir Tesar,Shared Key Contributor,DRep Pioneer Program,Intersect,,Funded,Complete,High,https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants,
+ENT-039,Innovation & Growth DAO,Cexplorer / Vellum Labs / Michal,Shared Key Contributor,Cexplorer.io -- Developer-Focused Blockchain Explorer for Cardano,TWGA,,Funded,Complete,High,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EC-0021-25,
+ENT-038,Houdiniswap,,,,Project Catalyst,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-039,Five Binaries,,,,Project Catalyst,,,,,,
+ENT-040,AxellaCoin,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-041,Cardano Tooling DAO LLC,Cardano Builder DAO,Shared Key Contributor,Rainfire DAO - Cardano Builder DAO,TWGA,,Funded,Complete,Medium,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EMI-0004-25,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,dRep Community Governance and Explorer,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/10/drep-improvement-and-onboarding/drep-community-governance-and-explorer,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Clarity DAO Treasury Defi Integrations,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/10/daos-cardano/clarity-dao-treasury-defi-integrations,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,SPO Community Polling platform,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/10/spo-tools-and-community-projects/spo-community-polling-platform,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Clarity DAO Infrastructure Liquid Democracy Capability,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/10/daos-cardano/clarity-dao-infrastructure-liquid-democracy-capability,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Playbook for Creation of SEC Exempt DAOs on Cardano,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/11/cardano-open-ecosystem/playbook-for-creation-of-sec-exempt-daos-on-cardano,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Clarity <> NMKR: Governance Token Creation Integration,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/10/building-on-nmkr/clarity-lessgreater-nmkr-governance-token-creation-integration,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Cardano DAO Dashboard,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/daos-3-cardano/cardano-dao-dashboard,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,"No code, audited Smart Contracts",Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/7/dapps-and-integrations/no-code-audited-smart-contracts,
+ENT-041,Cardano Tooling DAO LLC,Logan Panchot,Shared Key Contributor,Clarity DAO Infrastructure,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/daos-3-cardano/clarity-dao-infrastructure,
+ENT-041,Cardano Tooling DAO LLC,Clarity DAO,Shared Key Contributor,"Cardano Multisig Platform by Mesh, Clarity DAO & Fluid Tokens",Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/13/cardano-use-cases-product/cardano-multisig-platform-by-mesh-clarity-dao-and-fluid-tokens,
+ENT-041,Cardano Tooling DAO LLC,Clarity DAO,Shared Key Contributor,Voting Tool for the Constitutional Convention,Intersect,,Funded,Complete,Medium,https://intersect.gitbook.io/intersect-community-grants/cohort-4/voting-tool-for-the-constitutional-convention,
+ENT-041,Cardano Tooling DAO LLC,Clarity DAO,Shared Key Contributor,"Clarity, 150,000 Treasury Withdrawal",BuilderDAO,,Funded,Complete,Medium,https://www.clarity.vote/organizations/cardano/CardanoBuilderDAO/governance/polls/-OXxAcIKe-WobxCreuGu?t=1776806287806,
+ENT-041,Cardano Tooling DAO LLC,Clarity DAO,Shared Key Contributor,Clarity Round 2 Treasury Withdrawal Proposal,BuilderDAO,,Funded,Complete,Medium,https://www.clarity.vote/organizations/cardano/CBDAORound2/governance/polls/f7adfee8-d4d4-42c8-9a9d-0e4846a60fa2,
+ENT-042,Cardano Tooling DAO LLC,Cexplorer / Michal,Shared Key Contributor,Cexplorer: Mini Cardano Explorer for (not only) Local Usage,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/14/cardano-open-developers/cexplorer-mini-cardano-explorer-for-not-only-local-usage,
+ENT-043,Cardano Tooling DAO LLC,Cexplorer / Michal,Shared Key Contributor,"Cexplorer 2.0: Newer, Faster, More Powerful",Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/13/cardano-use-cases-product/cexplorer-20-newer-faster-more-powerful,
+ENT-044,Cardano Tooling DAO LLC,Cexplorer / Michal,Shared Key Contributor,Cexplorer.io: Advanced DRep & SPO analytics,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/13/cardano-use-cases-product/cexplorerio-advanced-drep-and-spo-analytics,
+ENT-045,Cardano Tooling DAO LLC,Cexplorer / Michal,Shared Key Contributor,JamOnBread‘s NFT Smart Contract with revenue sharing mechanism for whole Cardano NFT space to use!,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/11/cardano-open-developers/jamonbreads-nft-smart-contract-with-revenue-sharing-mechanism-for-whole-cardano-nft-space-to-use,
+ENT-046,Cardano Tooling DAO LLC,Cexplorer / Vellum Labs / Michal,Shared Key Contributor,Cexplorer.io -- Developer-Focused Blockchain Explorer for Cardano,TWGA,,Funded,Complete,Medium,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EC-0021-25,
+ENT-042,Libertum,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,Minswap Cardano DeFi Onboarding: Education Program,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-ecosystem/minswap-cardano-defi-onboarding-education-program,
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,"CardanoPress: Security Audits, Improvements & Optimisations",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/cardanopress-security-audits-improvements-and-optimisations,
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,Automated Phishing/Scam Detection,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/6/cardano-emerging-threat-alarm/automated-phishingscam-detection,
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,CardanoPress: ISPO Dashboard,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/cardanopress-ispo-dashboard,
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,"CardanoPress, A Plugin for Builders",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/building-on-blockfrost/cardanopress-a-plugin-for-builders,
+ENT-043,Cardano Content Creator Consortium (C4),Peter B,Shared Key Contributor,CardanoPress: Governance Plugin,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/daos-3-cardano/cardanopress-governance-plugin,
+ENT-043,Cardano Content Creator Consortium (C4),Linda Noland,Shared Key Contributor,Minswap Cardano DeFi Onboarding: Educational Content on How to DeFi on Cardano,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/13/cardano-open-ecosystem/minswap-cardano-defi-onboarding-educational-content-on-how-to-defi-on-cardano,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Rare Bloom Cardano Community Event,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/rare-bloom-cardano-community-event,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,DAO Controlled Staking Baskets - Multi-delegation Smart-contract governed by DAO holders,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/dao-controlled-staking-baskets-multi-delegation-smart-contract-governed-by-dao-holders,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Cardano Education Platform Expansion,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-ecosystem/cardano-education-platform-expansion,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Account NFT Smart-contract - Mint Verifiably Unique User Accounts that store data on-chain,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/account-nft-smart-contract-mint-verifiably-unique-user-accounts-that-store-data-on-chain,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Staking Basket Multi-Delegation Contract Open-Source,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/staking-basket-multi-delegation-contract-open-source,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Staking Basket Bot Open-source,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-developers/staking-basket-bot-open-source,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Profile NFTs - Customizable NFT Webpage w/ user data on-chain in datums,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-use-cases-mvp/profile-nfts-customizable-nft-webpage-w-user-data-on-chain-in-datums,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Staking Basket Ecosystem - Explorer for multi-delegation portfolios,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/staking-basket-ecosystem-explorer-for-multi-delegation-portfolios,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Profile NFTs - Incentivizing Social/Blockchain Engagement w/ Achievements & connecting Discord to Cardano,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-use-cases-mvp/profile-nfts-incentivizing-socialblockchain-engagement-w-achievements-and-connecting-discord-to-cardano,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,"Cardano Onboarding Campaign at larger crypto events, and multiples local education events.",Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-ecosystem/cardano-onboarding-campaign-at-larger-crypto-events-and-multiples-local-education-events,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Onboarding Education Platform,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/products-and-integrations/onboarding-education-platform,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Atrium Profile Minting & Customizing - User Account NFT,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/products-and-integrations/atrium-profile-minting-and-customizing-user-account-nft,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Customizable Staking Baskets Platform - Incentivizing Cardano's Decentralization,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/10/spo-tools-and-community-projects/customizable-staking-baskets-platform-incentivizing-cardanos-decentralization,
+ENT-043,Cardano Content Creator Consortium (C4),Âtrium Lab Inc. / Peyton Winget,Shared Key Contributor,Open-source Plutus v3 DAO Smart-contract,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/13/cardano-open-developers/open-source-plutus-v3-dao-smart-contract,
+ENT-043,Cardano Content Creator Consortium (C4),"David Orr / davidlikescrypto
+",Shared Key Contributor,[DLC] Cardano Ecosystem Growth - Marketing DeFi Products,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/13/cardano-open-ecosystem/dlc-cardano-ecosystem-growth-marketing-defi-products,
+ENT-043,Cardano Content Creator Consortium (C4),"David Orr / davidlikescrypto
+",Shared Key Contributor,[DLC] Cardano Ecosystem Growth - Short Form Video Marketing,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/13/cardano-open-ecosystem/dlc-cardano-ecosystem-growth-short-form-video-marketing,
+ENT-043,Cardano Content Creator Consortium (C4),LaPetiteADA,Shared Key Contributor,VAULT3 - Open source SDK to easily add token-gated content to any Cardano dapp or project,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-product/vault3-open-source-sdk-to-easily-add-token-gated-content-to-any-cardano-dapp-or-project,
+ENT-043,Cardano Content Creator Consortium (C4),LaPetiteADA,Shared Key Contributor,VAULT3 - Admin dashboard to manage token-gated content,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-use-cases-solution/vault3-admin-dashboard-to-manage-token-gated-content,
+ENT-044,"Anvil Development Agency, Inc.",Anvil,Same Entity / Name Variation,Anvil - Semi-Custodial Wallet: Enterprise ready Wallet SDK,Project Catalyst,,Funded,In Progress,High,https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/anvil-semi-custodial-wallet-enterprise-ready-wallet-sdk,
+ENT-044,"Anvil Development Agency, Inc.","Anvil / Zachary Soesbee, Tqueri",Same Entity / Name Variation,Anvil x Nuvola: Collateralization Hub,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-use-cases-mvp/anvil-x-nuvola-collateralization-hub,
+ENT-044,"Anvil Development Agency, Inc.","Anvil / Zachary Soesbee, Tqueri",Same Entity / Name Variation,ANVIL - Open Source - Universal Wallet Connector - Crosschain,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-open-developers/anvil-open-source-universal-wallet-connector-crosschain,
+ENT-044,"Anvil Development Agency, Inc.",Anvil / Zachary Soesbee,Same Entity / Name Variation,"Fractionalize RWAs into Native Tokens on Cardano (open source, no-code solution)",Project Catalyst,,Funded,In Progress,High,https://projectcatalyst.io/funds/12/cardano-use-cases-concept/fractionalize-rwas-into-native-tokens-on-cardano-open-source-no-code-solution,
+ENT-044,"Anvil Development Agency, Inc.",Anvil / Tqueri,Same Entity / Name Variation,Anvil - Open Source - Metadata Validator,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/anvil-open-source-metadata-validator,
+ENT-044,"Anvil Development Agency, Inc.",Anvil / Tqueri,Same Entity / Name Variation,Anvil - Open Source - Universal Wallet Connector,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/11/cardano-open-developers/anvil-open-source-universal-wallet-connector,
+ENT-044,"Anvil Development Agency, Inc.",Anvil / Tqueri,Same Entity / Name Variation,Anvil x Nuvola: 'C-Hub' - Bringing Collateralization to the Global Stage,Project Catalyst,,Funded,Delayed,High,https://projectcatalyst.io/funds/13/cardano-use-cases-product/anvil-x-nuvola-c-hub-bringing-collateralization-to-the-global-stage,
+ENT-044,"Anvil Development Agency, Inc.",Anvil,Same Entity / Name Variation,Anvil Development Agency,BuilderDAO,,Funded,Complete,High,https://www.clarity.vote/organizations/cardano/CardanoBuilderDAO/governance/polls/-OXxMgN1ZnnFNHt479WK?t=1776806191117,
+ENT-044,"Anvil Development Agency, Inc.",Anvil,Same Entity / Name Variation,Membership NFT Platform,Intersect,,Funded,Complete,High,https://intersect.gitbook.io/intersect-community-grants/cohort-4/membership-nft-platform,
+ENT-045,Wirex Limited,,,,,,,,,,"No historical funding records were identified for this individual, organization, or proposal team within the governance and funding sources reviewed as part of this research.
+
+This finding should not be interpreted as evidence that no prior funding exists. Rather, it indicates that no relevant historical funding relationships were identified through the publicly available records, governance datasets, and research methodology used in this study.
+
+The sources reviewed were selected because they cover the main known funding channels in the Cardano ecosystem, including Project Catalyst funding, direct Cardano Treasury funding, Cardano Builder DAO funding, and Intersect-related funding programs.
+
+Historical funding activity may exist outside the scope of the currently reviewed sources, may not be discoverable through available metadata, or may not have been attributable with sufficient confidence under the methodology applied.
+
+Sources reviewed included:
+
+CBDAO: https://cbdao.taptools.io/
+
+Project Catalyst: https://projectcatalyst.io/
+
+Adastat: https://adastat.net/
+
+Intersect 2025 Budget Portal: https://2025budget.intersectmbo.org/
+
+Sundae Treasury: https://treasury.sundae.fi/
+
+Intersect Admin Services public reporting: https://admin-services.docs.intersectmbo.org/public-reporting/core-contracts
+
+Intersect 2024 CDH Grants archive: https://docs.intersectmbo.org/intersect-knowledge-base/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants"
+ENT-046,Teragone Factory,Teragone Factory,Shared Organization or Consortium,Input Output Engineering 2025 Core Development Proposal,TWGA,,Funded,Delayed,Medium,https://gov.tools/outcomes/governance_actions/8ad3d454f3496a35cb0d07b0fd32f687f66338b7d60e787fc0a22939e5d8833e#1,"Teragone Factory is associated with the Mithril workstream as a self-declared long-term development collaborator.
+In its 2026 Mithril Protocol proposal, Teragone states that it has worked in close collaboration with IOG on Mithril for over three years and contributed to its development, maintenance, and evolution. However, while Mithril appears within the scope of IOG’s 2025 core development work, the available IOG proposal text does not explicitly name Teragone Factory as a funded subcontractor or delivery partner. Therefore, this should be treated as a project-level association with Mithril and IOG-funded development, not as confirmed direct prior treasury funding to Teragone."
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,FC Barcelona - Fan engagement infrastructure Cardano,Project Catalyst,,Funded,In Progress,Low,https://projectcatalyst.io/funds/13/cardano-partners-enterprise-randd/fc-barcelona-fan-engagement-infrastructure-cardano,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Business Lead Generation on Cardano,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/12/cardano-use-cases-concept/business-lead-generation-on-cardano,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Proposals Mentors Marketplace - 2,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/proposals-mentors-marketplace-2,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,littlefish - Ikigai in Community,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/9/daos-3-cardano/littlefish-ikigai-in-community,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Proposal Framework Tool - AIM,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/open-source-development-ecosystem/proposal-framework-tool-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Mentoring Africa to Success,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/8/grow-africa-grow-cardano/mentoring-africa-to-success,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Community collaboration standards,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/open-standards-and-interoperability/community-collaboration-standards,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Accounting Reporting France,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/9/legal-and-financial-implementations/accounting-reporting-france,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Community Lead Generation,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/business-solutions-b2b-and-b2c/community-lead-generation,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Cross-Chain Impact Lead Generator,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/cross-chain-collaboration/cross-chain-impact-lead-generator,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Onboarded companies playbook,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/9/legal-and-financial-implementations/onboarded-companies-playbook,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Buy food & make an impact,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/9/dapps-products-and-integrations/buy-food-and-make-an-impact,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,The Impact Onboarding,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/new-member-onboarding/the-impact-onboarding,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,AI Mentor matching software,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/business-solutions-b2b-and-b2c/ai-mentor-matching-software,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Microfinance on chain 3.0,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/nation-building-dapps/microfinance-on-chain-30,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Automated mentor-matching tool,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/8/new-member-onboarding/automated-mentor-matching-tool,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,,Project Catalyst,,Funded,Complete,Low,,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,NGO transparency,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/8/nation-building-dapps/ngo-transparency,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Fund8Proposals + SDGs - Cardano AIM,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/open-source-development-ecosystem/fund8proposals-sdgs-cardano-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Strategy Framework - AIM,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/catalyst-accelerator-and-mentors/strategy-framework-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Littlefish - Coordinating Action,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/dapps-and-integrations/littlefish-coordinating-action,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,21st century Agri supply chain,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/nation-building-dapps/21st-century-agri-supply-chain,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Onboarding through events,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/new-member-onboarding/onboarding-through-events,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,C4C Community Hub Operations,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/scale-up-cardano-s-community-hubs/c4c-community-hub-operations,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Traveller ID Ecosystem,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/8/self-sovereign-identity/traveller-id-ecosystem,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Proposal Framework Tool - AIM,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/open-source-developer-ecosystem/proposal-framework-tool-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Easy Engagement - New Members - AIM,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/7/catalyst-accelerator-and-mentors/easy-engagement-new-members-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Impact Measurements Tool - research,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/7/improve-and-grow-auditability/impact-measurements-tool-research,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,SustainableADA Goals Token Research,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/7/miscellaneous-challenge/sustainableada-goals-token-research,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Geneva Business Development Hub,Project Catalyst,,Funded,Complete,High,https://projectcatalyst.io/funds/7/scale-up-cardano-s-community-hubs/geneva-business-development-hub,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Fund7Proposals + SDGs - Cardano AIM,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/7/open-source-developer-ecosystem/fund7proposals-sdgs-cardano-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Research in Applying Frameworks-AIM,Project Catalyst,,Funded,Complete,Low,https://projectcatalyst.io/funds/6/partnerships-for-global-adoption/research-in-applying-frameworks-aim,
+ENT-047,Yoram Ben Zvi,Yoram,Shared Key Contributor,Add SDG ratings to proposals - AIM,Project Catalyst,,Funded,Complete,Medium,https://projectcatalyst.io/funds/6/partnerships-for-global-adoption/add-sdg-ratings-to-proposals-aim,
+ENT-048,Open Source Committee (Intersect),Intersect,"Same Organization, Different Representative",Intersect MBO - A member-based organization for the Cardano ecosystem,TWGA,,Funded,In Progress,High,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EG-0002-25,
+ENT-048,Open Source Committee (Intersect),OSC,Same Entity / Name Variation,"Maintainer Retainer, Tooling Sustainability, Security Incident Management Programs",TWGA,,Funded,Delayed,High,"https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EC-0013(1,2,7)-25",
+ENT-048,Open Source Committee (Intersect),Open Source Committee ,Same Entity / Name Variation,"Developer Advocates Program, Committee Travel Budget, Bug Bounty",TWGA,,Funded,Delayed,High,"https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EC-0013(6,10,4)-25",
+ENT-049,IntersectCBC,Intersect,"Same Organization, Different Representative",Intersect MBO - A member-based organization for the Cardano ecosystem,TWGA,,Funded,In Progress,High,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EG-0002-25,
+ENT-050,IntersectCPC,Intersect,"Same Organization, Different Representative",Intersect MBO - A member-based organization for the Cardano ecosystem,TWGA,,Funded,In Progress,High,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/EG-0002-25,
+ENT-050,IntersectCPC,Product Committee ,Same Entity / Name Variation,"Local Gatherings, Business Calls, Workshops",TWGA,,Funded,Delayed,High,https://treasury.sundae.fi/budgets/9e65e4ed7d6fd86fc4827d2b45da6d2c601fb920e8bfd794b8ecc619/project/ER-0004a-25,
