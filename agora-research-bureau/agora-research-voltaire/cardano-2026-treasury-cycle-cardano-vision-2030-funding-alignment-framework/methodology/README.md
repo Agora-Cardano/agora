@@ -308,6 +308,32 @@ Identification of potential concentration or underrepresentation across Vision 2
 
 ---
 
+## Disclaimer on Strategic Pillar Classification vs. Resource Allocation Labeling
+
+This analysis uses the Cardano Vision 2030 framework as the authoritative reference for strategic alignment classification. However, for the purpose of analyzing treasury resource allocation, an additional interpretive layer is applied to distinguish between formal strategic alignment and the economic substance of the funded work.
+
+In some cases, the official Cardano Vision 2030 taxonomy places Developer Experience, open-source tooling, SDKs, frameworks, and compatibility work under Pillar 2: Adoption & Utility. For resource allocation analysis, this may create ambiguity because some proposals classified under Adoption & Utility are primarily technical infrastructure or developer tooling rather than direct adoption initiatives.
+
+To improve clarity in spending analysis, proposals or work packages that are heavily focused on infrastructure, SDKs, frameworks, compilers, APIs, libraries, developer tooling, or other technical enablers may be labeled as Infrastructure & Research for allocation purposes, even when their formal Vision 2030 alignment falls under Adoption & Utility.
+
+This adjustment does not claim to alter the official Cardano Vision 2030 taxonomy. It is an analytical convention used to make treasury spending patterns more transparent.
+
+The following rules are applied:
+
+1. If a proposal or major work package is primarily focused on technical infrastructure, SDKs, frameworks, compiler tooling, APIs, libraries, or developer tooling, and its adoption impact is indirect or enabling, it may be labeled as Infrastructure & Research for resource allocation analysis.
+
+2. If a proposal contains substantial Developer Experience or tooling work and also includes clear, measurable adoption outputs, it may be classified across both Infrastructure & Research and Adoption & Utility, depending on the relative weight of the work packages, deliverables, KPIs, and intended outcomes.
+
+3. If the technical component exists mainly to enable a specific application, product, enterprise use case, DeFi/RWA/payment/supply-chain deployment, or other direct utility outcome, and the proposal includes clear adoption targets, KPIs, or measurable user/transaction/business outcomes, the proposal should remain primarily classified as Adoption & Utility.
+
+4. Direct adoption indicators may include, but are not limited to, targeted increases in users, monthly active users, transactions, TVL, enterprise integrations, real-world deployments, payment volume, RWA issuance, application usage, customer onboarding, or other measurable usage outcomes.
+
+5. Technical delivery milestones alone, such as releases, repositories, documentation, tests, audits, SDK completion, or tooling availability, are not sufficient to treat a proposal as direct adoption spending unless they are tied to explicit adoption outcomes with measurable targets.
+
+This distinction is intended to prevent infrastructure-heavy proposals from inflating the apparent amount of treasury funding allocated to direct adoption. It separates “funding tools that may enable future adoption” from “funding initiatives that directly target adoption, usage, or economic activity.”
+
+---
+
 # Limitations
 
 This study does not determine:
